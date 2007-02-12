@@ -1,5 +1,5 @@
 Summary:	DevHelp book: GNOME panel
-Summary(pl.UTF-8):   Książka do DevHelpa o panelu GNOME
+Summary(pl.UTF-8):	Książka do DevHelpa o panelu GNOME
 Name:		devhelp-book-panel
 Version:	1.0
 Release:	1
