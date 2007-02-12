@@ -1,5 +1,5 @@
 Summary:	DevHelp book: GNOME panel
-Summary(pl):	Ksi±¿ka do DevHelpa o panelu GNOME
+Summary(pl.UTF-8):   KsiÄ…Å¼ka do DevHelpa o panelu GNOME
 Name:		devhelp-book-panel
 Version:	1.0
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 DevHelp book about GNOME panel.
 
-%description -l pl
-Ksi±¿ka do DevHelpa o panelu GNOME.
+%description -l pl.UTF-8
+KsiÄ…Å¼ka do DevHelpa o panelu GNOME.
 
 %prep
 %setup -q -c -n panel
